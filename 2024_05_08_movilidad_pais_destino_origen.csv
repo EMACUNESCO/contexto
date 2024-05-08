@@ -1,0 +1,541 @@
+﻿Country_destino_ESP,Country_destino_ENG,Country_origen_ESP,Country_origen_ENG,Year,valor
+Cuba,Cuba,España,Spain,2000,5917
+Cuba,Cuba,Italia,Italy,2000,194
+Cuba,Cuba,Rusia,Russia,2000,2342
+Cuba,Cuba,Venezuela,Venezuela,2000,176
+Cuba,Cuba,Estados Unidos,United States of America,2000,569
+Cuba,Cuba,Otros,Otros,2000,6528
+República Dominicana,Dominican Republic,Haiti,Haiti,2000,228652
+República Dominicana,Dominican Republic,Venezuela,Venezuela,2000,17386
+República Dominicana,Dominican Republic,Estados Unidos,United States of America,2000,11133
+República Dominicana,Dominican Republic,España,Spain,2000,8982
+República Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2000,10708
+República Dominicana,Dominican Republic,Otros,Otros,2000,77306
+Costa Rica,Costa Rica,Nicaragua,Nicaragua,2000,230085
+Costa Rica,Costa Rica,Venezuela,Venezuela,2000,1054
+Costa Rica,Costa Rica,Colombia,Colombia,2000,5995
+Costa Rica,Costa Rica,El Salvador,El Salvador,2000,8857
+Costa Rica,Costa Rica,Estados Unidos,United States of America,2000,9667
+Costa Rica,Costa Rica,Otros,Otros,2000,44683
+El Salvador,El Salvador,Honduras,Honduras,2000,9525
+El Salvador,El Salvador,Guatemala,Guatemala,2000,6212
+El Salvador,El Salvador,Nicaragua,Nicaragua,2000,4545
+El Salvador,El Salvador,Estados Unidos,United States of America,2000,4603
+El Salvador,El Salvador,México,Mexico,2000,1438
+El Salvador,El Salvador,Otros,Otros,2000,5263
+Guatemala,Guatemala,El Salvador,El Salvador,2000,12037
+Guatemala,Guatemala,México,Mexico,2000,11070
+Guatemala,Guatemala,Estados Unidos,United States of America,2000,5456
+Guatemala,Guatemala,Nicaragua,Nicaragua,2000,5404
+Guatemala,Guatemala,Honduras,Honduras,2000,5295
+Guatemala,Guatemala,Otros,Otros,2000,8794
+Honduras,Honduras,El Salvador,El Salvador,2000,6574
+Honduras,Honduras,Nicaragua,Nicaragua,2000,5768
+Honduras,Honduras,Estados Unidos,United States of America,2000,5061
+Honduras,Honduras,Guatemala,Guatemala,2000,3421
+Honduras,Honduras,México,Mexico,2000,1164
+Honduras,Honduras,Otros,Otros,2000,6332
+México,Mexico,Estados Unidos,United States of America,2000,358399
+México,Mexico,Venezuela,Venezuela,2000,3024
+México,Mexico,Guatemala,Guatemala,2000,29156
+México,Mexico,Honduras,Honduras,2000,4203
+México,Mexico,España,Spain,2000,21334
+México,Mexico,Otros,Otros,2000,119996
+Nicaragua,Nicaragua,Honduras,Honduras,2000,10017
+Nicaragua,Nicaragua,Costa Rica,Costa Rica,2000,6948
+Nicaragua,Nicaragua,Estados Unidos,United States of America,2000,3006
+Nicaragua,Nicaragua,El Salvador,El Salvador,2000,2102
+Nicaragua,Nicaragua,Guatemala,Guatemala,2000,1199
+Nicaragua,Nicaragua,Otros,Otros,2000,5791
+Panamá,Panama,Venezuela,Venezuela,2000,989
+Panamá,Panama,Colombia,Colombia,2000,21473
+Panamá,Panama,China,China,2000,11300
+Panamá,Panama,Estados Unidos,United States of America,2000,5212
+Panamá,Panama,Nicaragua,Nicaragua,2000,4923
+Panamá,Panama,Otros,Otros,2000,39015
+Argentina,Argentina,Paraguay,Paraguay,2000,315086
+Argentina,Argentina,Bolivia,Bolivia,2000,226137
+Argentina,Argentina,Chile,Chile,2000,205945
+Argentina,Argentina,Perú,Peru,2000,85411
+Argentina,Argentina,Venezuela,Venezuela,2000,2600
+Argentina,Argentina,Otros,Otros,2000,624570
+Bolivia,Bolivia,Argentina,Argentina,2000,28095
+Bolivia,Bolivia,Brasil,Brazil,2000,14801
+Bolivia,Bolivia,España,Spain,2000,1641
+Bolivia,Bolivia,Perú,Peru,2000,9386
+Bolivia,Bolivia,México,Mexico,2000,9323
+Bolivia,Bolivia,Otros,Otros,2000,28293
+Brasil,Brazil,Venezuela,Venezuela,2000,2167
+Brasil,Brazil,Portugal,Portugal,2000,213713
+Brasil,Brazil,Japón,Japan,2000,71102
+Brasil,Brazil,Paraguay,Paraguay,2000,28891
+Brasil,Brazil,Bolivia,Bolivia,2000,20437
+Brasil,Brazil,Otros,Otros,2000,321303
+Chile,Chile,Venezuela,Venezuela,2000,4044
+Chile,Chile,Perú,Peru,2000,35460
+Chile,Chile,Haiti,Haiti,2000,45
+Chile,Chile,Colombia,Colombia,2000,3913
+Chile,Chile,Bolivia,Bolivia,2000,10568
+Chile,Chile,Otros,Otros,2000,100853
+Colombia,Colombia,Venezuela,Venezuela,2000,37200
+Colombia,Colombia,Estados Unidos,United States of America,2000,15068
+Colombia,Colombia,Ecuador,Ecuador,2000,11964
+Colombia,Colombia,España,Spain,2000,5608
+Colombia,Colombia,Argentina,Argentina,2000,2582
+Colombia,Colombia,Otros,Otros,2000,28046
+Ecuador,Ecuador,Venezuela,Venezuela,2000,3691
+Ecuador,Ecuador,Colombia,Colombia,2000,71556
+Ecuador,Ecuador,Estados Unidos,United States of America,2000,11112
+Ecuador,Ecuador,Perú,Peru,2000,5682
+Ecuador,Ecuador,Chile,Chile,2000,4702
+Ecuador,Ecuador,Otros,Otros,2000,25215
+Paraguay,Paraguay,Brasil,Brazil,2000,83208
+Paraguay,Paraguay,Argentina,Argentina,2000,64404
+Paraguay,Paraguay,Uruguay,Uruguay,2000,3303
+Paraguay,Paraguay,Corea del Sur,Republic of Korea,2000,2877
+Paraguay,Paraguay,Canadá,Canada,2000,2575
+Paraguay,Paraguay,Otros,Otros,2000,15979
+Perú,Peru,Venezuela,Venezuela,2000,2362
+Perú,Peru,Estados Unidos,United States of America,2000,7188
+Perú,Peru,China,China,2000,2981
+Perú,Peru,Bolivia,Bolivia,2000,4174
+Perú,Peru,Argentina,Argentina,2000,8282
+Perú,Peru,Otros,Otros,2000,40344
+Uruguay,Uruguay,Argentina,Argentina,2000,21691
+Uruguay,Uruguay,España,Spain,2000,24303
+Uruguay,Uruguay,Venezuela,Venezuela,2000,659
+Uruguay,Uruguay,Brasil,Brazil,2000,11507
+Uruguay,Uruguay,Italia,Italy,2000,13403
+Uruguay,Uruguay,Otros,Otros,2000,9914
+Cuba,Cuba,España,Spain,2005,3449
+Cuba,Cuba,Italia,Italy,2005,246
+Cuba,Cuba,Rusia,Russia,2005,1563
+Cuba,Cuba,Venezuela,Venezuela,2005,206
+Cuba,Cuba,Estados Unidos,United States of America,2005,459
+Cuba,Cuba,Otros,Otros,2005,4167
+República Dominicana,Dominican Republic,Haiti,Haiti,2005,270852
+República Dominicana,Dominican Republic,Venezuela,Venezuela,2005,11282
+República Dominicana,Dominican Republic,Estados Unidos,United States of America,2005,17831
+República Dominicana,Dominican Republic,España,Spain,2005,7852
+República Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2005,8253
+República Dominicana,Dominican Republic,Otros,Otros,2005,54641
+Costa Rica,Costa Rica,Nicaragua,Nicaragua,2005,268157
+Costa Rica,Costa Rica,Venezuela,Venezuela,2005,691
+Costa Rica,Costa Rica,Colombia,Colombia,2005,7708
+Costa Rica,Costa Rica,El Salvador,El Salvador,2005,6451
+Costa Rica,Costa Rica,Estados Unidos,United States of America,2005,6336
+Costa Rica,Costa Rica,Otros,Otros,2005,28796
+El Salvador,El Salvador,Honduras,Honduras,2005,10362
+El Salvador,El Salvador,Guatemala,Guatemala,2005,7367
+El Salvador,El Salvador,Nicaragua,Nicaragua,2005,6024
+El Salvador,El Salvador,Estados Unidos,United States of America,2005,4871
+El Salvador,El Salvador,México,Mexico,2005,1541
+El Salvador,El Salvador,Otros,Otros,2005,5729
+Guatemala,Guatemala,El Salvador,El Salvador,2005,14364
+Guatemala,Guatemala,México,Mexico,2005,13160
+Guatemala,Guatemala,Estados Unidos,United States of America,2005,6473
+Guatemala,Guatemala,Nicaragua,Nicaragua,2005,6424
+Guatemala,Guatemala,Honduras,Honduras,2005,6294
+Guatemala,Guatemala,Otros,Otros,2005,10464
+Honduras,Honduras,El Salvador,El Salvador,2005,6439
+Honduras,Honduras,Nicaragua,Nicaragua,2005,5649
+Honduras,Honduras,Estados Unidos,United States of America,2005,4946
+Honduras,Honduras,Guatemala,Guatemala,2005,3351
+Honduras,Honduras,México,Mexico,2005,1140
+Honduras,Honduras,Otros,Otros,2005,6212
+México,Mexico,Estados Unidos,United States of America,2005,520171
+México,Mexico,Venezuela,Venezuela,2005,6528
+México,Mexico,Guatemala,Guatemala,2005,29329
+México,Mexico,Honduras,Honduras,2005,6704
+México,Mexico,España,Spain,2005,19883
+México,Mexico,Otros,Otros,2005,127931
+Nicaragua,Nicaragua,Honduras,Honduras,2005,10745
+Nicaragua,Nicaragua,Costa Rica,Costa Rica,2005,9343
+Nicaragua,Nicaragua,Estados Unidos,United States of America,2005,3085
+Nicaragua,Nicaragua,El Salvador,El Salvador,2005,2121
+Nicaragua,Nicaragua,Guatemala,Guatemala,2005,1529
+Nicaragua,Nicaragua,Otros,Otros,2005,6396
+Panamá,Panama,Venezuela,Venezuela,2005,4276
+Panamá,Panama,Colombia,Colombia,2005,31157
+Panamá,Panama,China,China,2005,12365
+Panamá,Panama,Estados Unidos,United States of America,2005,7807
+Panamá,Panama,Nicaragua,Nicaragua,2005,7240
+Panamá,Panama,Otros,Otros,2005,46124
+Argentina,Argentina,Paraguay,Paraguay,2005,451818
+Argentina,Argentina,Bolivia,Bolivia,2005,294672
+Argentina,Argentina,Chile,Chile,2005,195338
+Argentina,Argentina,Perú,Peru,2005,127351
+Argentina,Argentina,Venezuela,Venezuela,2005,1919
+Argentina,Argentina,Otros,Otros,2005,543848
+Bolivia,Bolivia,Argentina,Argentina,2005,32418
+Bolivia,Bolivia,Brasil,Brazil,2005,18453
+Bolivia,Bolivia,España,Spain,2005,6059
+Bolivia,Bolivia,Perú,Peru,2005,9549
+Bolivia,Bolivia,México,Mexico,2005,8760
+Bolivia,Bolivia,Otros,Otros,2005,30500
+Brasil,Brazil,Venezuela,Venezuela,2005,2524
+Brasil,Brazil,Portugal,Portugal,2005,176510
+Brasil,Brazil,Japón,Japan,2005,60300
+Brasil,Brazil,Paraguay,Paraguay,2005,34146
+Brasil,Brazil,Bolivia,Bolivia,2005,29671
+Brasil,Brazil,Otros,Otros,2005,318973
+Chile,Chile,Venezuela,Venezuela,2005,6070
+Chile,Chile,Perú,Peru,2005,80085
+Chile,Chile,Haiti,Haiti,2005,67
+Chile,Chile,Colombia,Colombia,2005,9159
+Chile,Chile,Bolivia,Bolivia,2005,17859
+Chile,Chile,Otros,Otros,2005,126131
+Colombia,Colombia,Venezuela,Venezuela,2005,37353
+Colombia,Colombia,Estados Unidos,United States of America,2005,15039
+Colombia,Colombia,Ecuador,Ecuador,2005,11337
+Colombia,Colombia,España,Spain,2005,5245
+Colombia,Colombia,Argentina,Argentina,2005,2540
+Colombia,Colombia,Otros,Otros,2005,27047
+Ecuador,Ecuador,Venezuela,Venezuela,2005,4415
+Ecuador,Ecuador,Colombia,Colombia,2005,94258
+Ecuador,Ecuador,Estados Unidos,United States of America,2005,13293
+Ecuador,Ecuador,Perú,Peru,2005,6798
+Ecuador,Ecuador,Chile,Chile,2005,5625
+Ecuador,Ecuador,Otros,Otros,2005,30188
+Paraguay,Paraguay,Brasil,Brazil,2005,79266
+Paraguay,Paraguay,Argentina,Argentina,2005,61353
+Paraguay,Paraguay,Uruguay,Uruguay,2005,3146
+Paraguay,Paraguay,Corea del Sur,Republic of Korea,2005,2740
+Paraguay,Paraguay,Canadá,Canada,2005,2453
+Paraguay,Paraguay,Otros,Otros,2005,15218
+Perú,Peru,Venezuela,Venezuela,2005,2794
+Perú,Peru,Estados Unidos,United States of America,2005,8444
+Perú,Peru,China,China,2005,3502
+Perú,Peru,Bolivia,Bolivia,2005,4904
+Perú,Peru,Argentina,Argentina,2005,9729
+Perú,Peru,Otros,Otros,2005,47397
+Uruguay,Uruguay,Argentina,Argentina,2005,25992
+Uruguay,Uruguay,España,Spain,2005,18858
+Uruguay,Uruguay,Venezuela,Venezuela,2005,610
+Uruguay,Uruguay,Brasil,Brazil,2005,12923
+Uruguay,Uruguay,Italia,Italy,2005,8155
+Uruguay,Uruguay,Otros,Otros,2005,8914
+Cuba,Cuba,España,Spain,2010,1908
+Cuba,Cuba,Italia,Italy,2010,295
+Cuba,Cuba,Rusia,Russia,2010,989
+Cuba,Cuba,Venezuela,Venezuela,2010,228
+Cuba,Cuba,Estados Unidos,United States of America,2010,349
+Cuba,Cuba,Otros,Otros,2010,2740
+República Dominicana,Dominican Republic,Haiti,Haiti,2010,313363
+República Dominicana,Dominican Republic,Venezuela,Venezuela,2010,5155
+República Dominicana,Dominican Republic,Estados Unidos,United States of America,2010,24567
+República Dominicana,Dominican Republic,España,Spain,2010,6721
+República Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2010,5789
+República Dominicana,Dominican Republic,Otros,Otros,2010,31915
+Costa Rica,Costa Rica,Nicaragua,Nicaragua,2010,288033
+Costa Rica,Costa Rica,Venezuela,Venezuela,2010,1362
+Costa Rica,Costa Rica,Colombia,Colombia,2010,20965
+Costa Rica,Costa Rica,El Salvador,El Salvador,2010,13701
+Costa Rica,Costa Rica,Estados Unidos,United States of America,2010,12492
+Costa Rica,Costa Rica,Otros,Otros,2010,55660
+El Salvador,El Salvador,Honduras,Honduras,2010,11198
+El Salvador,El Salvador,Guatemala,Guatemala,2010,8521
+El Salvador,El Salvador,Nicaragua,Nicaragua,2010,7502
+El Salvador,El Salvador,Estados Unidos,United States of America,2010,5176
+El Salvador,El Salvador,México,Mexico,2010,1644
+El Salvador,El Salvador,Otros,Otros,2010,6161
+Guatemala,Guatemala,El Salvador,El Salvador,2010,16691
+Guatemala,Guatemala,México,Mexico,2010,15250
+Guatemala,Guatemala,Estados Unidos,United States of America,2010,7514
+Guatemala,Guatemala,Nicaragua,Nicaragua,2010,7443
+Guatemala,Guatemala,Honduras,Honduras,2010,7292
+Guatemala,Guatemala,Otros,Otros,2010,12112
+Honduras,Honduras,El Salvador,El Salvador,2010,6303
+Honduras,Honduras,Nicaragua,Nicaragua,2010,5530
+Honduras,Honduras,Estados Unidos,United States of America,2010,4851
+Honduras,Honduras,Guatemala,Guatemala,2010,3280
+Honduras,Honduras,México,Mexico,2010,1116
+Honduras,Honduras,Otros,Otros,2010,6073
+México,Mexico,Estados Unidos,United States of America,2010,742050
+México,Mexico,Venezuela,Venezuela,2010,10788
+México,Mexico,Guatemala,Guatemala,2010,32894
+México,Mexico,Honduras,Honduras,2010,9982
+México,Mexico,España,Spain,2010,20731
+México,Mexico,Otros,Otros,2010,150671
+Nicaragua,Nicaragua,Honduras,Honduras,2010,11534
+Nicaragua,Nicaragua,Costa Rica,Costa Rica,2010,9989
+Nicaragua,Nicaragua,Estados Unidos,United States of America,2010,3298
+Nicaragua,Nicaragua,El Salvador,El Salvador,2010,2267
+Nicaragua,Nicaragua,Guatemala,Guatemala,2010,1634
+Nicaragua,Nicaragua,Otros,Otros,2010,6814
+Panamá,Panama,Venezuela,Venezuela,2010,8441
+Panamá,Panama,Colombia,Colombia,2010,47190
+Panamá,Panama,China,China,2010,15942
+Panamá,Panama,Estados Unidos,United States of America,2010,11993
+Panamá,Panama,Nicaragua,Nicaragua,2010,11032
+Panamá,Panama,Otros,Otros,2010,62656
+Argentina,Argentina,Paraguay,Paraguay,2010,588452
+Argentina,Argentina,Bolivia,Bolivia,2010,363142
+Argentina,Argentina,Chile,Chile,2010,184687
+Argentina,Argentina,Perú,Peru,2010,169262
+Argentina,Argentina,Venezuela,Venezuela,2010,1236
+Argentina,Argentina,Otros,Otros,2010,460927
+Bolivia,Bolivia,Argentina,Argentina,2010,36671
+Bolivia,Bolivia,Brasil,Brazil,2010,22066
+Bolivia,Bolivia,España,Spain,2010,10463
+Bolivia,Bolivia,Perú,Peru,2010,9691
+Bolivia,Bolivia,México,Mexico,2010,8179
+Bolivia,Bolivia,Otros,Otros,2010,32792
+Brasil,Brazil,Venezuela,Venezuela,2010,2845
+Brasil,Brazil,Portugal,Portugal,2010,136792
+Brasil,Brazil,Japón,Japan,2010,48639
+Brasil,Brazil,Paraguay,Paraguay,2010,38916
+Brasil,Brazil,Bolivia,Bolivia,2010,38484
+Brasil,Brazil,Otros,Otros,2010,321352
+Chile,Chile,Venezuela,Venezuela,2010,8095
+Chile,Chile,Perú,Peru,2010,124672
+Chile,Chile,Haiti,Haiti,2010,90
+Chile,Chile,Colombia,Colombia,2010,14401
+Chile,Chile,Bolivia,Bolivia,2010,25143
+Chile,Chile,Otros,Otros,2010,151363
+Colombia,Colombia,Venezuela,Venezuela,2010,45692
+Colombia,Colombia,Estados Unidos,United States of America,2010,16977
+Colombia,Colombia,Ecuador,Ecuador,2010,13707
+Colombia,Colombia,España,Spain,2010,7935
+Colombia,Colombia,Argentina,Argentina,2010,3386
+Colombia,Colombia,Otros,Otros,2010,33258
+Ecuador,Ecuador,Venezuela,Venezuela,2010,7032
+Ecuador,Ecuador,Colombia,Colombia,2010,221534
+Ecuador,Ecuador,Estados Unidos,United States of America,2010,21172
+Ecuador,Ecuador,Perú,Peru,2010,10826
+Ecuador,Ecuador,Chile,Chile,2010,8959
+Ecuador,Ecuador,Otros,Otros,2010,49439
+Paraguay,Paraguay,Brasil,Brazil,2010,75523
+Paraguay,Paraguay,Argentina,Argentina,2010,58456
+Paraguay,Paraguay,Uruguay,Uruguay,2010,2997
+Paraguay,Paraguay,Corea del Sur,Republic of Korea,2010,2610
+Paraguay,Paraguay,Canadá,Canada,2010,2337
+Paraguay,Paraguay,Otros,Otros,2010,14493
+Perú,Peru,Venezuela,Venezuela,2010,3504
+Perú,Peru,Estados Unidos,United States of America,2010,12739
+Perú,Peru,China,China,2010,6491
+Perú,Peru,Bolivia,Bolivia,2010,7026
+Perú,Peru,Argentina,Argentina,2010,11961
+Perú,Peru,Otros,Otros,2010,61723
+Uruguay,Uruguay,Argentina,Argentina,2010,26782
+Uruguay,Uruguay,España,Spain,2010,15718
+Uruguay,Uruguay,Venezuela,Venezuela,2010,565
+Uruguay,Uruguay,Brasil,Brazil,2010,11978
+Uruguay,Uruguay,Italia,Italy,2010,7095
+Uruguay,Uruguay,Otros,Otros,2010,8257
+Cuba,Cuba,España,Spain,2015,999
+Cuba,Cuba,Italia,Italy,2015,337
+Cuba,Cuba,Rusia,Russia,2015,593
+Cuba,Cuba,Venezuela,Venezuela,2015,241
+Cuba,Cuba,Estados Unidos,United States of America,2015,253
+Cuba,Cuba,Otros,Otros,2015,1785
+República Dominicana,Dominican Republic,Haiti,Haiti,2015,475084
+República Dominicana,Dominican Republic,Venezuela,Venezuela,2015,3561
+República Dominicana,Dominican Republic,Estados Unidos,United States of America,2015,14010
+República Dominicana,Dominican Republic,España,Spain,2015,6967
+República Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2015,4578
+República Dominicana,Dominican Republic,Otros,Otros,2015,36640
+Costa Rica,Costa Rica,Nicaragua,Nicaragua,2015,292232
+Costa Rica,Costa Rica,Venezuela,Venezuela,2015,1381
+Costa Rica,Costa Rica,Colombia,Colombia,2015,21270
+Costa Rica,Costa Rica,El Salvador,El Salvador,2015,13900
+Costa Rica,Costa Rica,Estados Unidos,United States of America,2015,12673
+Costa Rica,Costa Rica,Otros,Otros,2015,56299
+El Salvador,El Salvador,Honduras,Honduras,2015,11676
+El Salvador,El Salvador,Guatemala,Guatemala,2015,8885
+El Salvador,El Salvador,Nicaragua,Nicaragua,2015,7823
+El Salvador,El Salvador,Estados Unidos,United States of America,2015,5397
+El Salvador,El Salvador,México,Mexico,2015,1714
+El Salvador,El Salvador,Otros,Otros,2015,6423
+Guatemala,Guatemala,El Salvador,El Salvador,2015,18301
+Guatemala,Guatemala,México,Mexico,2015,16720
+Guatemala,Guatemala,Estados Unidos,United States of America,2015,8239
+Guatemala,Guatemala,Nicaragua,Nicaragua,2015,8161
+Guatemala,Guatemala,Honduras,Honduras,2015,7995
+Guatemala,Guatemala,Otros,Otros,2015,13298
+Honduras,Honduras,El Salvador,El Salvador,2015,8853
+Honduras,Honduras,Nicaragua,Nicaragua,2015,7767
+Honduras,Honduras,Estados Unidos,United States of America,2015,6799
+Honduras,Honduras,Guatemala,Guatemala,2015,4607
+Honduras,Honduras,México,Mexico,2015,1567
+Honduras,Honduras,Otros,Otros,2015,8514
+México,Mexico,Estados Unidos,United States of America,2015,728502
+México,Mexico,Venezuela,Venezuela,2015,16491
+México,Mexico,Guatemala,Guatemala,2015,42221
+México,Mexico,Honduras,Honduras,2015,14623
+México,Mexico,España,Spain,2015,22544
+México,Mexico,Otros,Otros,2015,168236
+Nicaragua,Nicaragua,Honduras,Honduras,2015,12439
+Nicaragua,Nicaragua,Costa Rica,Costa Rica,2015,10772
+Nicaragua,Nicaragua,Estados Unidos,United States of America,2015,3606
+Nicaragua,Nicaragua,El Salvador,El Salvador,2015,2444
+Nicaragua,Nicaragua,Guatemala,Guatemala,2015,1762
+Nicaragua,Nicaragua,Otros,Otros,2015,7322
+Panamá,Panama,Venezuela,Venezuela,2015,9883
+Panamá,Panama,Colombia,Colombia,2015,55251
+Panamá,Panama,China,China,2015,18665
+Panamá,Panama,Estados Unidos,United States of America,2015,14040
+Panamá,Panama,Nicaragua,Nicaragua,2015,12915
+Panamá,Panama,Otros,Otros,2015,73307
+Argentina,Argentina,Paraguay,Paraguay,2015,679044
+Argentina,Argentina,Bolivia,Bolivia,2015,419048
+Argentina,Argentina,Chile,Chile,2015,213119
+Argentina,Argentina,Perú,Peru,2015,195320
+Argentina,Argentina,Venezuela,Venezuela,2015,1240
+Argentina,Argentina,Otros,Otros,2015,534391
+Bolivia,Bolivia,Argentina,Argentina,2015,42697
+Bolivia,Bolivia,Brasil,Brazil,2015,25692
+Bolivia,Bolivia,España,Spain,2015,12183
+Bolivia,Bolivia,Perú,Peru,2015,11284
+Bolivia,Bolivia,México,Mexico,2015,9524
+Bolivia,Bolivia,Otros,Otros,2015,38295
+Brasil,Brazil,Venezuela,Venezuela,2015,3354
+Brasil,Brazil,Portugal,Portugal,2015,161250
+Brasil,Brazil,Japón,Japan,2015,57336
+Brasil,Brazil,Paraguay,Paraguay,2015,45874
+Brasil,Brazil,Bolivia,Bolivia,2015,45364
+Brasil,Brazil,Otros,Otros,2015,380632
+Chile,Chile,Venezuela,Venezuela,2015,54787
+Chile,Chile,Perú,Peru,2015,150885
+Chile,Chile,Haiti,Haiti,2015,39825
+Chile,Chile,Colombia,Colombia,2015,73601
+Chile,Chile,Bolivia,Bolivia,2015,53244
+Chile,Chile,Otros,Otros,2015,189234
+Colombia,Colombia,Venezuela,Venezuela,2015,55893
+Colombia,Colombia,Estados Unidos,United States of America,2015,18963
+Colombia,Colombia,Ecuador,Ecuador,2015,16397
+Colombia,Colombia,España,Spain,2015,11877
+Colombia,Colombia,Argentina,Argentina,2015,4464
+Colombia,Colombia,Otros,Otros,2015,40938
+Ecuador,Ecuador,Venezuela,Venezuela,2015,8901
+Ecuador,Ecuador,Colombia,Colombia,2015,194721
+Ecuador,Ecuador,Estados Unidos,United States of America,2015,26802
+Ecuador,Ecuador,Perú,Peru,2015,13705
+Ecuador,Ecuador,Chile,Chile,2015,11341
+Ecuador,Ecuador,Otros,Otros,2015,60734
+Paraguay,Paraguay,Brasil,Brazil,2015,73715
+Paraguay,Paraguay,Argentina,Argentina,2015,57056
+Paraguay,Paraguay,Uruguay,Uruguay,2015,2925
+Paraguay,Paraguay,Corea del Sur,Republic of Korea,2015,2547
+Paraguay,Paraguay,Canadá,Canada,2015,2281
+Paraguay,Paraguay,Otros,Otros,2015,14140
+Perú,Peru,Venezuela,Venezuela,2015,4129
+Perú,Peru,Estados Unidos,United States of America,2015,18958
+Perú,Peru,China,China,2015,18783
+Perú,Peru,Bolivia,Bolivia,2015,16767
+Perú,Peru,Argentina,Argentina,2015,14386
+Perú,Peru,Otros,Otros,2015,79757
+Uruguay,Uruguay,Argentina,Argentina,2015,27662
+Uruguay,Uruguay,España,Spain,2015,16232
+Uruguay,Uruguay,Venezuela,Venezuela,2015,583
+Uruguay,Uruguay,Brasil,Brazil,2015,12369
+Uruguay,Uruguay,Italia,Italy,2015,7327
+Uruguay,Uruguay,Otros,Otros,2015,8518
+Cuba,Cuba,España,Spain,2020,505
+Cuba,Cuba,Italia,Italy,2020,371
+Cuba,Cuba,Rusia,Russia,2020,343
+Cuba,Cuba,Venezuela,Venezuela,2020,245
+Cuba,Cuba,Estados Unidos,United States of America,2020,176
+Cuba,Cuba,Otros,Otros,2020,1166
+República Dominicana,Dominican Republic,Haiti,Haiti,2020,496112
+República Dominicana,Dominican Republic,Venezuela,Venezuela,2020,34063
+República Dominicana,Dominican Republic,Estados Unidos,United States of America,2020,14626
+República Dominicana,Dominican Republic,España,Spain,2020,7272
+República Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2020,4780
+República Dominicana,Dominican Republic,Otros,Otros,2020,38172
+Costa Rica,Costa Rica,Nicaragua,Nicaragua,2020,350854
+Costa Rica,Costa Rica,Venezuela,Venezuela,2020,28214
+Costa Rica,Costa Rica,Colombia,Colombia,2020,25530
+Costa Rica,Costa Rica,El Salvador,El Salvador,2020,16682
+Costa Rica,Costa Rica,Estados Unidos,United States of America,2020,15209
+Costa Rica,Costa Rica,Otros,Otros,2020,67491
+El Salvador,El Salvador,Honduras,Honduras,2020,11878
+El Salvador,El Salvador,Guatemala,Guatemala,2020,9036
+El Salvador,El Salvador,Nicaragua,Nicaragua,2020,7956
+El Salvador,El Salvador,Estados Unidos,United States of America,2020,5488
+El Salvador,El Salvador,México,Mexico,2020,1742
+El Salvador,El Salvador,Otros,Otros,2020,6497
+Guatemala,Guatemala,El Salvador,El Salvador,2020,20683
+Guatemala,Guatemala,México,Mexico,2020,18872
+Guatemala,Guatemala,Estados Unidos,United States of America,2020,9299
+Guatemala,Guatemala,Nicaragua,Nicaragua,2020,9211
+Guatemala,Guatemala,Honduras,Honduras,2020,9023
+Guatemala,Guatemala,Otros,Otros,2020,14916
+Honduras,Honduras,El Salvador,El Salvador,2020,9071
+Honduras,Honduras,Nicaragua,Nicaragua,2020,7943
+Honduras,Honduras,Estados Unidos,United States of America,2020,6954
+Honduras,Honduras,Guatemala,Guatemala,2020,4711
+Honduras,Honduras,México,Mexico,2020,1602
+Honduras,Honduras,Otros,Otros,2020,8663
+México,Mexico,Estados Unidos,United States of America,2020,799248
+México,Mexico,Venezuela,Venezuela,2020,70377
+México,Mexico,Guatemala,Guatemala,2020,46318
+México,Mexico,Honduras,Honduras,2020,38764
+México,Mexico,España,Spain,2020,24731
+México,Mexico,Otros,Otros,2020,194973
+Nicaragua,Nicaragua,Honduras,Honduras,2020,13110
+Nicaragua,Nicaragua,Costa Rica,Costa Rica,2020,11281
+Nicaragua,Nicaragua,Estados Unidos,United States of America,2020,3775
+Nicaragua,Nicaragua,El Salvador,El Salvador,2020,2557
+Nicaragua,Nicaragua,Guatemala,Guatemala,2020,1843
+Nicaragua,Nicaragua,Otros,Otros,2020,7596
+Panamá,Panama,Venezuela,Venezuela,2020,119553
+Panamá,Panama,Colombia,Colombia,2020,50702
+Panamá,Panama,China,China,2020,22427
+Panamá,Panama,Estados Unidos,United States of America,2020,16867
+Panamá,Panama,Nicaragua,Nicaragua,2020,15517
+Panamá,Panama,Otros,Otros,2020,87034
+Argentina,Argentina,Paraguay,Paraguay,2020,685714
+Argentina,Argentina,Bolivia,Bolivia,2020,423136
+Argentina,Argentina,Chile,Chile,2020,215198
+Argentina,Argentina,Perú,Peru,2020,197226
+Argentina,Argentina,Venezuela,Venezuela,2020,176369
+Argentina,Argentina,Otros,Otros,2020,539526
+Bolivia,Bolivia,Argentina,Argentina,2020,47601
+Bolivia,Bolivia,Brasil,Brazil,2020,28612
+Bolivia,Bolivia,España,Spain,2020,13568
+Bolivia,Bolivia,Perú,Peru,2020,12565
+Bolivia,Bolivia,México,Mexico,2020,10606
+Bolivia,Bolivia,Otros,Otros,2020,47240
+Brasil,Brazil,Venezuela,Venezuela,2020,248105
+Brasil,Brazil,Portugal,Portugal,2020,175251
+Brasil,Brazil,Japón,Japan,2020,62296
+Brasil,Brazil,Paraguay,Paraguay,2020,49842
+Brasil,Brazil,Bolivia,Bolivia,2020,49289
+Brasil,Brazil,Otros,Otros,2020,476852
+Chile,Chile,Venezuela,Venezuela,2020,523553
+Chile,Chile,Perú,Peru,2020,240273
+Chile,Chile,Haiti,Haiti,2020,236912
+Chile,Chile,Colombia,Colombia,2020,173487
+Chile,Chile,Bolivia,Bolivia,2020,128782
+Chile,Chile,Otros,Otros,2020,299387
+Colombia,Colombia,Venezuela,Venezuela,2020,1780486
+Colombia,Colombia,Estados Unidos,United States of America,2020,20810
+Colombia,Colombia,Ecuador,Ecuador,2020,19180
+Colombia,Colombia,España,Spain,2020,17122
+Colombia,Colombia,Argentina,Argentina,2020,5719
+Colombia,Colombia,Otros,Otros,2020,49687
+Ecuador,Ecuador,Venezuela,Venezuela,2020,388861
+Ecuador,Ecuador,Colombia,Colombia,2020,203470
+Ecuador,Ecuador,Estados Unidos,United States of America,2020,28026
+Ecuador,Ecuador,Perú,Peru,2020,14331
+Ecuador,Ecuador,Chile,Chile,2020,11859
+Ecuador,Ecuador,Otros,Otros,2020,63716
+Paraguay,Paraguay,Brasil,Brazil,2020,79897
+Paraguay,Paraguay,Argentina,Argentina,2020,61833
+Paraguay,Paraguay,Uruguay,Uruguay,2020,3168
+Paraguay,Paraguay,Corea del Sur,Republic of Korea,2020,2759
+Paraguay,Paraguay,Canadá,Canada,2020,2471
+Paraguay,Paraguay,Otros,Otros,2020,15303
+Perú,Peru,Venezuela,Venezuela,2020,941889
+Perú,Peru,Estados Unidos,United States of America,2020,41292
+Perú,Peru,China,China,2020,31931
+Perú,Peru,Bolivia,Bolivia,2020,28165
+Perú,Peru,Argentina,Argentina,2020,26854
+Perú,Peru,Otros,Otros,2020,149892
+Uruguay,Uruguay,Argentina,Argentina,2020,33022
+Uruguay,Uruguay,España,Spain,2020,19374
+Uruguay,Uruguay,Venezuela,Venezuela,2020,14908
+Uruguay,Uruguay,Brasil,Brazil,2020,14762
+Uruguay,Uruguay,Italia,Italy,2020,8744
+Uruguay,Uruguay,Otros,Otros,2020,10155

@@ -1,16 +1,16 @@
-﻿Country_destino_ESP,Country_destino_ENG,Country_origen_ESP,Country_origen_ENG,Year,valor
+Country_destino_ESP,Country_destino_ENG,Country_origen_ESP,Country_origen_ENG,Year,valor
 Cuba,Cuba,España,Spain,2000,5917
 Cuba,Cuba,Italia,Italy,2000,194
 Cuba,Cuba,Rusia,Russia,2000,2342
 Cuba,Cuba,Venezuela,Venezuela,2000,176
 Cuba,Cuba,Estados Unidos,United States of America,2000,569
 Cuba,Cuba,Otros,Otros,2000,6528
-República Dominicana,Dominican Republic,Haiti,Haiti,2000,228652
-República Dominicana,Dominican Republic,Venezuela,Venezuela,2000,17386
-República Dominicana,Dominican Republic,Estados Unidos,United States of America,2000,11133
-República Dominicana,Dominican Republic,España,Spain,2000,8982
-República Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2000,10708
-República Dominicana,Dominican Republic,Otros,Otros,2000,77306
+Republica-Dominicana,Dominican Republic,Haiti,Haiti,2000,228652
+Republica-Dominicana,Dominican Republic,Venezuela,Venezuela,2000,17386
+Republica-Dominicana,Dominican Republic,Estados Unidos,United States of America,2000,11133
+Republica-Dominicana,Dominican Republic,España,Spain,2000,8982
+Republica-Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2000,10708
+Republica-Dominicana,Dominican Republic,Otros,Otros,2000,77306
 Costa Rica,Costa Rica,Nicaragua,Nicaragua,2000,230085
 Costa Rica,Costa Rica,Venezuela,Venezuela,2000,1054
 Costa Rica,Costa Rica,Colombia,Colombia,2000,5995
@@ -56,13 +56,13 @@ Panamá,Panama,Otros,Otros,2000,39015
 Argentina,Argentina,Paraguay,Paraguay,2000,315086
 Argentina,Argentina,Bolivia,Bolivia,2000,226137
 Argentina,Argentina,Chile,Chile,2000,205945
-Argentina,Argentina,Perú,Peru,2000,85411
+Argentina,Argentina,Peru,Peru,2000,85411
 Argentina,Argentina,Venezuela,Venezuela,2000,2600
 Argentina,Argentina,Otros,Otros,2000,624570
 Bolivia,Bolivia,Argentina,Argentina,2000,28095
 Bolivia,Bolivia,Brasil,Brazil,2000,14801
 Bolivia,Bolivia,España,Spain,2000,1641
-Bolivia,Bolivia,Perú,Peru,2000,9386
+Bolivia,Bolivia,Peru,Peru,2000,9386
 Bolivia,Bolivia,México,Mexico,2000,9323
 Bolivia,Bolivia,Otros,Otros,2000,28293
 Brasil,Brazil,Venezuela,Venezuela,2000,2167
@@ -72,7 +72,7 @@ Brasil,Brazil,Paraguay,Paraguay,2000,28891
 Brasil,Brazil,Bolivia,Bolivia,2000,20437
 Brasil,Brazil,Otros,Otros,2000,321303
 Chile,Chile,Venezuela,Venezuela,2000,4044
-Chile,Chile,Perú,Peru,2000,35460
+Chile,Chile,Peru,Peru,2000,35460
 Chile,Chile,Haiti,Haiti,2000,45
 Chile,Chile,Colombia,Colombia,2000,3913
 Chile,Chile,Bolivia,Bolivia,2000,10568
@@ -86,7 +86,7 @@ Colombia,Colombia,Otros,Otros,2000,28046
 Ecuador,Ecuador,Venezuela,Venezuela,2000,3691
 Ecuador,Ecuador,Colombia,Colombia,2000,71556
 Ecuador,Ecuador,Estados Unidos,United States of America,2000,11112
-Ecuador,Ecuador,Perú,Peru,2000,5682
+Ecuador,Ecuador,Peru,Peru,2000,5682
 Ecuador,Ecuador,Chile,Chile,2000,4702
 Ecuador,Ecuador,Otros,Otros,2000,25215
 Paraguay,Paraguay,Brasil,Brazil,2000,83208
@@ -95,12 +95,12 @@ Paraguay,Paraguay,Uruguay,Uruguay,2000,3303
 Paraguay,Paraguay,Corea del Sur,Republic of Korea,2000,2877
 Paraguay,Paraguay,Canadá,Canada,2000,2575
 Paraguay,Paraguay,Otros,Otros,2000,15979
-Perú,Peru,Venezuela,Venezuela,2000,2362
-Perú,Peru,Estados Unidos,United States of America,2000,7188
-Perú,Peru,China,China,2000,2981
-Perú,Peru,Bolivia,Bolivia,2000,4174
-Perú,Peru,Argentina,Argentina,2000,8282
-Perú,Peru,Otros,Otros,2000,40344
+Peru,Peru,Venezuela,Venezuela,2000,2362
+Peru,Peru,Estados Unidos,United States of America,2000,7188
+Peru,Peru,China,China,2000,2981
+Peru,Peru,Bolivia,Bolivia,2000,4174
+Peru,Peru,Argentina,Argentina,2000,8282
+Peru,Peru,Otros,Otros,2000,40344
 Uruguay,Uruguay,Argentina,Argentina,2000,21691
 Uruguay,Uruguay,España,Spain,2000,24303
 Uruguay,Uruguay,Venezuela,Venezuela,2000,659
@@ -113,12 +113,12 @@ Cuba,Cuba,Rusia,Russia,2005,1563
 Cuba,Cuba,Venezuela,Venezuela,2005,206
 Cuba,Cuba,Estados Unidos,United States of America,2005,459
 Cuba,Cuba,Otros,Otros,2005,4167
-República Dominicana,Dominican Republic,Haiti,Haiti,2005,270852
-República Dominicana,Dominican Republic,Venezuela,Venezuela,2005,11282
-República Dominicana,Dominican Republic,Estados Unidos,United States of America,2005,17831
-República Dominicana,Dominican Republic,España,Spain,2005,7852
-República Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2005,8253
-República Dominicana,Dominican Republic,Otros,Otros,2005,54641
+Republica-Dominicana,Dominican Republic,Haiti,Haiti,2005,270852
+Republica-Dominicana,Dominican Republic,Venezuela,Venezuela,2005,11282
+Republica-Dominicana,Dominican Republic,Estados Unidos,United States of America,2005,17831
+Republica-Dominicana,Dominican Republic,España,Spain,2005,7852
+Republica-Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2005,8253
+Republica-Dominicana,Dominican Republic,Otros,Otros,2005,54641
 Costa Rica,Costa Rica,Nicaragua,Nicaragua,2005,268157
 Costa Rica,Costa Rica,Venezuela,Venezuela,2005,691
 Costa Rica,Costa Rica,Colombia,Colombia,2005,7708
@@ -164,13 +164,13 @@ Panamá,Panama,Otros,Otros,2005,46124
 Argentina,Argentina,Paraguay,Paraguay,2005,451818
 Argentina,Argentina,Bolivia,Bolivia,2005,294672
 Argentina,Argentina,Chile,Chile,2005,195338
-Argentina,Argentina,Perú,Peru,2005,127351
+Argentina,Argentina,Peru,Peru,2005,127351
 Argentina,Argentina,Venezuela,Venezuela,2005,1919
 Argentina,Argentina,Otros,Otros,2005,543848
 Bolivia,Bolivia,Argentina,Argentina,2005,32418
 Bolivia,Bolivia,Brasil,Brazil,2005,18453
 Bolivia,Bolivia,España,Spain,2005,6059
-Bolivia,Bolivia,Perú,Peru,2005,9549
+Bolivia,Bolivia,Peru,Peru,2005,9549
 Bolivia,Bolivia,México,Mexico,2005,8760
 Bolivia,Bolivia,Otros,Otros,2005,30500
 Brasil,Brazil,Venezuela,Venezuela,2005,2524
@@ -180,7 +180,7 @@ Brasil,Brazil,Paraguay,Paraguay,2005,34146
 Brasil,Brazil,Bolivia,Bolivia,2005,29671
 Brasil,Brazil,Otros,Otros,2005,318973
 Chile,Chile,Venezuela,Venezuela,2005,6070
-Chile,Chile,Perú,Peru,2005,80085
+Chile,Chile,Peru,Peru,2005,80085
 Chile,Chile,Haiti,Haiti,2005,67
 Chile,Chile,Colombia,Colombia,2005,9159
 Chile,Chile,Bolivia,Bolivia,2005,17859
@@ -194,7 +194,7 @@ Colombia,Colombia,Otros,Otros,2005,27047
 Ecuador,Ecuador,Venezuela,Venezuela,2005,4415
 Ecuador,Ecuador,Colombia,Colombia,2005,94258
 Ecuador,Ecuador,Estados Unidos,United States of America,2005,13293
-Ecuador,Ecuador,Perú,Peru,2005,6798
+Ecuador,Ecuador,Peru,Peru,2005,6798
 Ecuador,Ecuador,Chile,Chile,2005,5625
 Ecuador,Ecuador,Otros,Otros,2005,30188
 Paraguay,Paraguay,Brasil,Brazil,2005,79266
@@ -203,12 +203,12 @@ Paraguay,Paraguay,Uruguay,Uruguay,2005,3146
 Paraguay,Paraguay,Corea del Sur,Republic of Korea,2005,2740
 Paraguay,Paraguay,Canadá,Canada,2005,2453
 Paraguay,Paraguay,Otros,Otros,2005,15218
-Perú,Peru,Venezuela,Venezuela,2005,2794
-Perú,Peru,Estados Unidos,United States of America,2005,8444
-Perú,Peru,China,China,2005,3502
-Perú,Peru,Bolivia,Bolivia,2005,4904
-Perú,Peru,Argentina,Argentina,2005,9729
-Perú,Peru,Otros,Otros,2005,47397
+Peru,Peru,Venezuela,Venezuela,2005,2794
+Peru,Peru,Estados Unidos,United States of America,2005,8444
+Peru,Peru,China,China,2005,3502
+Peru,Peru,Bolivia,Bolivia,2005,4904
+Peru,Peru,Argentina,Argentina,2005,9729
+Peru,Peru,Otros,Otros,2005,47397
 Uruguay,Uruguay,Argentina,Argentina,2005,25992
 Uruguay,Uruguay,España,Spain,2005,18858
 Uruguay,Uruguay,Venezuela,Venezuela,2005,610
@@ -221,12 +221,12 @@ Cuba,Cuba,Rusia,Russia,2010,989
 Cuba,Cuba,Venezuela,Venezuela,2010,228
 Cuba,Cuba,Estados Unidos,United States of America,2010,349
 Cuba,Cuba,Otros,Otros,2010,2740
-República Dominicana,Dominican Republic,Haiti,Haiti,2010,313363
-República Dominicana,Dominican Republic,Venezuela,Venezuela,2010,5155
-República Dominicana,Dominican Republic,Estados Unidos,United States of America,2010,24567
-República Dominicana,Dominican Republic,España,Spain,2010,6721
-República Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2010,5789
-República Dominicana,Dominican Republic,Otros,Otros,2010,31915
+Republica-Dominicana,Dominican Republic,Haiti,Haiti,2010,313363
+Republica-Dominicana,Dominican Republic,Venezuela,Venezuela,2010,5155
+Republica-Dominicana,Dominican Republic,Estados Unidos,United States of America,2010,24567
+Republica-Dominicana,Dominican Republic,España,Spain,2010,6721
+Republica-Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2010,5789
+Republica-Dominicana,Dominican Republic,Otros,Otros,2010,31915
 Costa Rica,Costa Rica,Nicaragua,Nicaragua,2010,288033
 Costa Rica,Costa Rica,Venezuela,Venezuela,2010,1362
 Costa Rica,Costa Rica,Colombia,Colombia,2010,20965
@@ -272,13 +272,13 @@ Panamá,Panama,Otros,Otros,2010,62656
 Argentina,Argentina,Paraguay,Paraguay,2010,588452
 Argentina,Argentina,Bolivia,Bolivia,2010,363142
 Argentina,Argentina,Chile,Chile,2010,184687
-Argentina,Argentina,Perú,Peru,2010,169262
+Argentina,Argentina,Peru,Peru,2010,169262
 Argentina,Argentina,Venezuela,Venezuela,2010,1236
 Argentina,Argentina,Otros,Otros,2010,460927
 Bolivia,Bolivia,Argentina,Argentina,2010,36671
 Bolivia,Bolivia,Brasil,Brazil,2010,22066
 Bolivia,Bolivia,España,Spain,2010,10463
-Bolivia,Bolivia,Perú,Peru,2010,9691
+Bolivia,Bolivia,Peru,Peru,2010,9691
 Bolivia,Bolivia,México,Mexico,2010,8179
 Bolivia,Bolivia,Otros,Otros,2010,32792
 Brasil,Brazil,Venezuela,Venezuela,2010,2845
@@ -288,7 +288,7 @@ Brasil,Brazil,Paraguay,Paraguay,2010,38916
 Brasil,Brazil,Bolivia,Bolivia,2010,38484
 Brasil,Brazil,Otros,Otros,2010,321352
 Chile,Chile,Venezuela,Venezuela,2010,8095
-Chile,Chile,Perú,Peru,2010,124672
+Chile,Chile,Peru,Peru,2010,124672
 Chile,Chile,Haiti,Haiti,2010,90
 Chile,Chile,Colombia,Colombia,2010,14401
 Chile,Chile,Bolivia,Bolivia,2010,25143
@@ -302,7 +302,7 @@ Colombia,Colombia,Otros,Otros,2010,33258
 Ecuador,Ecuador,Venezuela,Venezuela,2010,7032
 Ecuador,Ecuador,Colombia,Colombia,2010,221534
 Ecuador,Ecuador,Estados Unidos,United States of America,2010,21172
-Ecuador,Ecuador,Perú,Peru,2010,10826
+Ecuador,Ecuador,Peru,Peru,2010,10826
 Ecuador,Ecuador,Chile,Chile,2010,8959
 Ecuador,Ecuador,Otros,Otros,2010,49439
 Paraguay,Paraguay,Brasil,Brazil,2010,75523
@@ -311,12 +311,12 @@ Paraguay,Paraguay,Uruguay,Uruguay,2010,2997
 Paraguay,Paraguay,Corea del Sur,Republic of Korea,2010,2610
 Paraguay,Paraguay,Canadá,Canada,2010,2337
 Paraguay,Paraguay,Otros,Otros,2010,14493
-Perú,Peru,Venezuela,Venezuela,2010,3504
-Perú,Peru,Estados Unidos,United States of America,2010,12739
-Perú,Peru,China,China,2010,6491
-Perú,Peru,Bolivia,Bolivia,2010,7026
-Perú,Peru,Argentina,Argentina,2010,11961
-Perú,Peru,Otros,Otros,2010,61723
+Peru,Peru,Venezuela,Venezuela,2010,3504
+Peru,Peru,Estados Unidos,United States of America,2010,12739
+Peru,Peru,China,China,2010,6491
+Peru,Peru,Bolivia,Bolivia,2010,7026
+Peru,Peru,Argentina,Argentina,2010,11961
+Peru,Peru,Otros,Otros,2010,61723
 Uruguay,Uruguay,Argentina,Argentina,2010,26782
 Uruguay,Uruguay,España,Spain,2010,15718
 Uruguay,Uruguay,Venezuela,Venezuela,2010,565
@@ -329,12 +329,12 @@ Cuba,Cuba,Rusia,Russia,2015,593
 Cuba,Cuba,Venezuela,Venezuela,2015,241
 Cuba,Cuba,Estados Unidos,United States of America,2015,253
 Cuba,Cuba,Otros,Otros,2015,1785
-República Dominicana,Dominican Republic,Haiti,Haiti,2015,475084
-República Dominicana,Dominican Republic,Venezuela,Venezuela,2015,3561
-República Dominicana,Dominican Republic,Estados Unidos,United States of America,2015,14010
-República Dominicana,Dominican Republic,España,Spain,2015,6967
-República Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2015,4578
-República Dominicana,Dominican Republic,Otros,Otros,2015,36640
+Republica-Dominicana,Dominican Republic,Haiti,Haiti,2015,475084
+Republica-Dominicana,Dominican Republic,Venezuela,Venezuela,2015,3561
+Republica-Dominicana,Dominican Republic,Estados Unidos,United States of America,2015,14010
+Republica-Dominicana,Dominican Republic,España,Spain,2015,6967
+Republica-Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2015,4578
+Republica-Dominicana,Dominican Republic,Otros,Otros,2015,36640
 Costa Rica,Costa Rica,Nicaragua,Nicaragua,2015,292232
 Costa Rica,Costa Rica,Venezuela,Venezuela,2015,1381
 Costa Rica,Costa Rica,Colombia,Colombia,2015,21270
@@ -380,13 +380,13 @@ Panamá,Panama,Otros,Otros,2015,73307
 Argentina,Argentina,Paraguay,Paraguay,2015,679044
 Argentina,Argentina,Bolivia,Bolivia,2015,419048
 Argentina,Argentina,Chile,Chile,2015,213119
-Argentina,Argentina,Perú,Peru,2015,195320
+Argentina,Argentina,Peru,Peru,2015,195320
 Argentina,Argentina,Venezuela,Venezuela,2015,1240
 Argentina,Argentina,Otros,Otros,2015,534391
 Bolivia,Bolivia,Argentina,Argentina,2015,42697
 Bolivia,Bolivia,Brasil,Brazil,2015,25692
 Bolivia,Bolivia,España,Spain,2015,12183
-Bolivia,Bolivia,Perú,Peru,2015,11284
+Bolivia,Bolivia,Peru,Peru,2015,11284
 Bolivia,Bolivia,México,Mexico,2015,9524
 Bolivia,Bolivia,Otros,Otros,2015,38295
 Brasil,Brazil,Venezuela,Venezuela,2015,3354
@@ -396,7 +396,7 @@ Brasil,Brazil,Paraguay,Paraguay,2015,45874
 Brasil,Brazil,Bolivia,Bolivia,2015,45364
 Brasil,Brazil,Otros,Otros,2015,380632
 Chile,Chile,Venezuela,Venezuela,2015,54787
-Chile,Chile,Perú,Peru,2015,150885
+Chile,Chile,Peru,Peru,2015,150885
 Chile,Chile,Haiti,Haiti,2015,39825
 Chile,Chile,Colombia,Colombia,2015,73601
 Chile,Chile,Bolivia,Bolivia,2015,53244
@@ -410,7 +410,7 @@ Colombia,Colombia,Otros,Otros,2015,40938
 Ecuador,Ecuador,Venezuela,Venezuela,2015,8901
 Ecuador,Ecuador,Colombia,Colombia,2015,194721
 Ecuador,Ecuador,Estados Unidos,United States of America,2015,26802
-Ecuador,Ecuador,Perú,Peru,2015,13705
+Ecuador,Ecuador,Peru,Peru,2015,13705
 Ecuador,Ecuador,Chile,Chile,2015,11341
 Ecuador,Ecuador,Otros,Otros,2015,60734
 Paraguay,Paraguay,Brasil,Brazil,2015,73715
@@ -419,12 +419,12 @@ Paraguay,Paraguay,Uruguay,Uruguay,2015,2925
 Paraguay,Paraguay,Corea del Sur,Republic of Korea,2015,2547
 Paraguay,Paraguay,Canadá,Canada,2015,2281
 Paraguay,Paraguay,Otros,Otros,2015,14140
-Perú,Peru,Venezuela,Venezuela,2015,4129
-Perú,Peru,Estados Unidos,United States of America,2015,18958
-Perú,Peru,China,China,2015,18783
-Perú,Peru,Bolivia,Bolivia,2015,16767
-Perú,Peru,Argentina,Argentina,2015,14386
-Perú,Peru,Otros,Otros,2015,79757
+Peru,Peru,Venezuela,Venezuela,2015,4129
+Peru,Peru,Estados Unidos,United States of America,2015,18958
+Peru,Peru,China,China,2015,18783
+Peru,Peru,Bolivia,Bolivia,2015,16767
+Peru,Peru,Argentina,Argentina,2015,14386
+Peru,Peru,Otros,Otros,2015,79757
 Uruguay,Uruguay,Argentina,Argentina,2015,27662
 Uruguay,Uruguay,España,Spain,2015,16232
 Uruguay,Uruguay,Venezuela,Venezuela,2015,583
@@ -437,12 +437,12 @@ Cuba,Cuba,Rusia,Russia,2020,343
 Cuba,Cuba,Venezuela,Venezuela,2020,245
 Cuba,Cuba,Estados Unidos,United States of America,2020,176
 Cuba,Cuba,Otros,Otros,2020,1166
-República Dominicana,Dominican Republic,Haiti,Haiti,2020,496112
-República Dominicana,Dominican Republic,Venezuela,Venezuela,2020,34063
-República Dominicana,Dominican Republic,Estados Unidos,United States of America,2020,14626
-República Dominicana,Dominican Republic,España,Spain,2020,7272
-República Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2020,4780
-República Dominicana,Dominican Republic,Otros,Otros,2020,38172
+Republica-Dominicana,Dominican Republic,Haiti,Haiti,2020,496112
+Republica-Dominicana,Dominican Republic,Venezuela,Venezuela,2020,34063
+Republica-Dominicana,Dominican Republic,Estados Unidos,United States of America,2020,14626
+Republica-Dominicana,Dominican Republic,España,Spain,2020,7272
+Republica-Dominicana,Dominican Republic,Puerto Rico,Puerto Rico,2020,4780
+Republica-Dominicana,Dominican Republic,Otros,Otros,2020,38172
 Costa Rica,Costa Rica,Nicaragua,Nicaragua,2020,350854
 Costa Rica,Costa Rica,Venezuela,Venezuela,2020,28214
 Costa Rica,Costa Rica,Colombia,Colombia,2020,25530
@@ -488,13 +488,13 @@ Panamá,Panama,Otros,Otros,2020,87034
 Argentina,Argentina,Paraguay,Paraguay,2020,685714
 Argentina,Argentina,Bolivia,Bolivia,2020,423136
 Argentina,Argentina,Chile,Chile,2020,215198
-Argentina,Argentina,Perú,Peru,2020,197226
+Argentina,Argentina,Peru,Peru,2020,197226
 Argentina,Argentina,Venezuela,Venezuela,2020,176369
 Argentina,Argentina,Otros,Otros,2020,539526
 Bolivia,Bolivia,Argentina,Argentina,2020,47601
 Bolivia,Bolivia,Brasil,Brazil,2020,28612
 Bolivia,Bolivia,España,Spain,2020,13568
-Bolivia,Bolivia,Perú,Peru,2020,12565
+Bolivia,Bolivia,Peru,Peru,2020,12565
 Bolivia,Bolivia,México,Mexico,2020,10606
 Bolivia,Bolivia,Otros,Otros,2020,47240
 Brasil,Brazil,Venezuela,Venezuela,2020,248105
@@ -504,7 +504,7 @@ Brasil,Brazil,Paraguay,Paraguay,2020,49842
 Brasil,Brazil,Bolivia,Bolivia,2020,49289
 Brasil,Brazil,Otros,Otros,2020,476852
 Chile,Chile,Venezuela,Venezuela,2020,523553
-Chile,Chile,Perú,Peru,2020,240273
+Chile,Chile,Peru,Peru,2020,240273
 Chile,Chile,Haiti,Haiti,2020,236912
 Chile,Chile,Colombia,Colombia,2020,173487
 Chile,Chile,Bolivia,Bolivia,2020,128782
@@ -518,7 +518,7 @@ Colombia,Colombia,Otros,Otros,2020,49687
 Ecuador,Ecuador,Venezuela,Venezuela,2020,388861
 Ecuador,Ecuador,Colombia,Colombia,2020,203470
 Ecuador,Ecuador,Estados Unidos,United States of America,2020,28026
-Ecuador,Ecuador,Perú,Peru,2020,14331
+Ecuador,Ecuador,Peru,Peru,2020,14331
 Ecuador,Ecuador,Chile,Chile,2020,11859
 Ecuador,Ecuador,Otros,Otros,2020,63716
 Paraguay,Paraguay,Brasil,Brazil,2020,79897
@@ -527,12 +527,12 @@ Paraguay,Paraguay,Uruguay,Uruguay,2020,3168
 Paraguay,Paraguay,Corea del Sur,Republic of Korea,2020,2759
 Paraguay,Paraguay,Canadá,Canada,2020,2471
 Paraguay,Paraguay,Otros,Otros,2020,15303
-Perú,Peru,Venezuela,Venezuela,2020,941889
-Perú,Peru,Estados Unidos,United States of America,2020,41292
-Perú,Peru,China,China,2020,31931
-Perú,Peru,Bolivia,Bolivia,2020,28165
-Perú,Peru,Argentina,Argentina,2020,26854
-Perú,Peru,Otros,Otros,2020,149892
+Peru,Peru,Venezuela,Venezuela,2020,941889
+Peru,Peru,Estados Unidos,United States of America,2020,41292
+Peru,Peru,China,China,2020,31931
+Peru,Peru,Bolivia,Bolivia,2020,28165
+Peru,Peru,Argentina,Argentina,2020,26854
+Peru,Peru,Otros,Otros,2020,149892
 Uruguay,Uruguay,Argentina,Argentina,2020,33022
 Uruguay,Uruguay,España,Spain,2020,19374
 Uruguay,Uruguay,Venezuela,Venezuela,2020,14908
